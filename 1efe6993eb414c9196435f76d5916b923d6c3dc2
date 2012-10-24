@@ -52,3 +52,11 @@ GaussForHomalg/: db0ffcc Merge pull request #1 from sebasguts/master
 
 Versions:
  2012.10.17
+
+GradedModules/: f21bb3f fixed Pullback to correctly handle distinguished objects
+
+Versions:
+2012.10.22 which is Markus' version
+2012.10.23 which is Mohamed's version
+2011.05.05 which is Sebastian's version
+2012.06.15 which is Sebas' version
