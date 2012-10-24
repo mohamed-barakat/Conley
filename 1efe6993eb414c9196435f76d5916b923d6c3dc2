@@ -27,3 +27,8 @@ Conley/: 1efe699 cannot compare rationals with floats
 
 Versions:
  2012.10.23
+
+Convex/: a7fcc21 Added \in
+
+Versions:
+2012.10.23 which is Sebas' version
