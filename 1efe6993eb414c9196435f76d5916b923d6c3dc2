@@ -136,3 +136,8 @@ Versions:
 2012.10.23 which is Mohamed's version
 2012.10.22 which is Simon's version
 2012.10.12 which is Sebas' version
+
+PolymakeInterface/: 12c202c Fixed a bug in ray calculation.
+
+Versions:
+2012.10.22 which is Sebas' version
