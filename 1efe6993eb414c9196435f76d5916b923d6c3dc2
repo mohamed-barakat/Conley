@@ -7,3 +7,8 @@ AbelianSystems/: 2403e59 increased assertion levels by two to comply with the ne
 Versions:
 2011.06.20 which is Alban's version
 2012.09.21 which is Mohamed's version
+
+alexander/: 05d59cb comply with the new GAPDoc testing methods
+
+Versions:
+ 2011.06.29
