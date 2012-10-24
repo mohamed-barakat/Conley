@@ -32,3 +32,8 @@ Convex/: a7fcc21 Added \in
 
 Versions:
 2012.10.23 which is Sebas' version
+
+D-Modules/: 7df6283 comply with the new GAPDoc testing methods
+
+Versions:
+ 2012.06.28
