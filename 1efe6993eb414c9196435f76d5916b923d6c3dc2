@@ -12,3 +12,8 @@ alexander/: 05d59cb comply with the new GAPDoc testing methods
 
 Versions:
  2011.06.29
+
+AutoDoc/: 5c5d136 Merge pull request #3 from sebasguts/master
+
+Versions:
+2012.10.01 which is Sebas' version
