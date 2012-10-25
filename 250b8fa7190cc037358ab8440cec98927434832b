@@ -32,3 +32,8 @@ Convex/: e22d5d6 Added QUIT at the end of makedoc.g
 
 Versions:
 2012.10.24 which is Sebas' version
+
+D-Modules/: 7df6283 comply with the new GAPDoc testing methods
+
+Versions:
+ 2012.06.28
