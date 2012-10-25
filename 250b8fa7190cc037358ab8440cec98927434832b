@@ -91,3 +91,9 @@ k-Points/: 1b9358d updated manual.css
 Versions:
 2012.10.22 which is Mohamed's version
 2011.06.01 which is Alban's version
+
+LessGenerators/: aeece44 increased assertion levels by two to comply with the new GAPDoc testing methods
+
+Versions:
+2012.09.21 which is Mohamed's version
+2010.04.04 which is Vinay's version
