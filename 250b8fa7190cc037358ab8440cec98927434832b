@@ -109,3 +109,8 @@ LocalizeRingForHomalg/: edca555 updated manual.css
 Versions:
 2011.04.26 which is Markus' version
 2012.10.22 which is Mohamed's version
+
+MapleForHomalg/: 6d099de comply with the new GAPDoc testing methods
+
+Versions:
+ 2011.07.25
