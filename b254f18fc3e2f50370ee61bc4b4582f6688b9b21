@@ -88,3 +88,8 @@ Gauss/: fe16dd8 improved EchelonMatTransformationDestructive to take care of GF(
 
 Versions:
  2013.06.26
+
+GaussForHomalg/: 346da06 create a globally defined field of rationals HOMALG_MATRICES.QQ
+
+Versions:
+ 2013.09.20
