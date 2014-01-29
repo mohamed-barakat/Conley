@@ -196,3 +196,13 @@ PrimaryDecomposition/: 53c6d99 fixed bibitem for Kemper
 Versions:
 2013.10.27 which is Mohamed's version
 2013.11.02 which is Eva Maria's version
+
+RingsForHomalg/: a71c69c matrix.lib loads: nctools.lib, poly.lib, random.lib
+
+Versions:
+2011.09.12 which is Markus L-H's version
+2011.06.16 which is Markus K's version
+2014.01.17 which is Mohamed's version
+2011.12.13 which is Andreas's version
+2012.12.11 which is Sebas' version
+2013.07.16 which is Vinay's version
