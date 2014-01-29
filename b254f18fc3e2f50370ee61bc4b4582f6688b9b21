@@ -110,3 +110,10 @@ Versions:
 2011.05.05 which is Sebastian's version
 2012.06.15 which is Sebas' version
 2013.02.07 which is Markus' Kirschmer version
+
+homalg/: fc0b545 HOMALG.SuppressParityInViewObjForCommutativeStructureObjects := false
+
+Versions:
+2013.10.10 which is Mohamed's version
+2012.09.17 which is Markus' version
+2012.03.29 which is Sebas' version
