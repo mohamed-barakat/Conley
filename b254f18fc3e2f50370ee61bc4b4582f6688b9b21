@@ -55,3 +55,8 @@ Versions:
 2013.10.20 which is Mohamed's version
 2013.06.07 which is Sebastian's version
 2013.11.07 which is Sebas version
+
+Conley/: b254f18 UnderlyingSet is now an attribute for IsPoset
+
+Versions:
+ 2012.10.25
