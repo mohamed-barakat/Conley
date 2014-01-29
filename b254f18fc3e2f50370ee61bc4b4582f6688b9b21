@@ -74,3 +74,8 @@ D-Modules/: 3c56762 D_Modules_init -> $D_Modules_init
 
 Versions:
  2014.01.08
+
+ExamplesForHomalg/: d32bd4c added three example files
+
+Versions:
+ 2013.07.05
