@@ -83,3 +83,8 @@ Versions:
 ForgetfulFunctor/: fcac07e t := TateResolution( Cokernel( mu0 ), -4, 6 );
 
 Versions:
+
+Gauss/: fe16dd8 improved EchelonMatTransformationDestructive to take care of GF(2^d)
+
+Versions:
+ 2013.06.26
