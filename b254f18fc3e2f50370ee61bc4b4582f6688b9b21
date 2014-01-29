@@ -60,3 +60,8 @@ Conley/: b254f18 UnderlyingSet is now an attribute for IsPoset
 
 Versions:
  2012.10.25
+
+Convex/: 13ef65f Renamed toric star.
+
+Versions:
+2013.12.05 which is Sebas' version
