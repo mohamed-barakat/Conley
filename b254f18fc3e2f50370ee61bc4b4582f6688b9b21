@@ -219,3 +219,8 @@ Versions:
 2013.10.19 which is Mohamed's version
 2013.08.06 which is Thomas' version
 2013.11.11 which is Sebas' version
+
+SimplicialObjects/: 0c5dbd4 comply with the new GAPDoc testing methods
+
+Versions:
+ 2011.06.29
