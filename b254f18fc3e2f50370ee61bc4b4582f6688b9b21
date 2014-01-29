@@ -224,3 +224,8 @@ SimplicialObjects/: 0c5dbd4 comply with the new GAPDoc testing methods
 
 Versions:
  2011.06.29
+
+SingularForHomalg/: 7ac91fb added examples and used all of them in manual
+
+Versions:
+2014.01.04 which is Mohamed's version
