@@ -93,3 +93,11 @@ GaussForHomalg/: 346da06 create a globally defined field of rationals HOMALG_MAT
 
 Versions:
  2013.09.20
+
+GradedModules/: 9cc245a clean up in code
+
+Versions:
+2012.10.22 which is Markus' version
+2013.10.27 which is Mohamed's version
+2011.05.05 which is Sebastian's version
+2013.08.08 which is Sebas' version
