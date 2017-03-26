@@ -82,3 +82,12 @@ Versions:
 GAP/:
 
 Versions:
+
+GradedRingForHomalg/: 703fca8 increase version to properly migrate package to mohamed
+
+Versions:
+2014.08.27 which is Markus' version
+2014.08.27 which is Mohamed's version
+2011.05.05 which is Sebastian's version
+2012.06.15 which is Sebas' version
+2013.02.07 which is Markus' Kirschmer version
