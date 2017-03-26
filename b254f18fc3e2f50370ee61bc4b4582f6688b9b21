@@ -180,3 +180,8 @@ Versions:
 2011.12.13 which is Andreas's version
 2012.12.11 which is Sebas' version
 2013.07.16 which is Vinay's version
+
+SCSCP_ForHomalg/: a41318f comply with the new GAPDoc testing methods
+
+Versions:
+ 2011.12.17
