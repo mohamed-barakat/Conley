@@ -203,3 +203,11 @@ SingularForHomalg/: 8399c89 Comply with SingularInterface v0.7.2
 
 Versions:
 2014.10.25 which is Mohamed's version
+
+SystemTheory/: 6dcc930 outsourced GeneralLinearCombination to MatricesForHomalg v2013.07.22
+
+Versions:
+2011.06.17 which is Alban's version
+2011.06.14 which is Markus's version
+2013.07.22 which is Mohamed's version
+2011.06.01 which is Thomas's version
