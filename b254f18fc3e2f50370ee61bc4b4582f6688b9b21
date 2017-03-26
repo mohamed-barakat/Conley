@@ -108,3 +108,9 @@ HomalgToCAS/: a303b94 added missing Add( used_pointers, t ) in homalgCreateStrin
 
 Versions:
  2015.03.20
+
+k-Points/: 2ed33fa outsourced declarations of module attributes
+
+Versions:
+2013.09.19 which is Mohamed's version
+2011.06.01 which is Alban's version
