@@ -127,3 +127,8 @@ LetterPlace/: 6260b62 comply with the new GAPDoc testing methods
 Versions:
 2011.11.16 which is Max' version
 2012.09.21 which is Mohamed's version
+
+libsing/: e82f218 updated .gitignore
+
+Versions:
+ 0.7.2
