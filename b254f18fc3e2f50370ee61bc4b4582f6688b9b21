@@ -7,3 +7,11 @@ AbelianSystems/: b8dd604 standard banner
 Versions:
 2011.06.20 which is Alban's version
 2012.10.22 which is Mohamed's version
+
+alcove/: c19cb7d Matroid: representable matroids now accept non-field base rings once again, with functions relying on a field calling TryNextMethod
+
+Versions:
+2016-09-21 which is Martin's version
+2014-07-15 which is Mohamed's version
+2013-11-07 which is Sebas' version
+2014-01-04 which is Max' version
