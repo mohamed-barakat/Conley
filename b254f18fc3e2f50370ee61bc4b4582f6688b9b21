@@ -198,3 +198,8 @@ SimplicialObjects/: 0c5dbd4 comply with the new GAPDoc testing methods
 
 Versions:
  2011.06.29
+
+SingularForHomalg/: 8399c89 Comply with SingularInterface v0.7.2
+
+Versions:
+2014.10.25 which is Mohamed's version
