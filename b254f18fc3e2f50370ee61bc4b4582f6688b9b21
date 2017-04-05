@@ -185,3 +185,11 @@ SCSCP_ForHomalg/: a41318f comply with the new GAPDoc testing methods
 
 Versions:
  2011.12.17
+
+Sheaves/: 20481ff renamed GeneralizedInverse -> InverseOfGeneralizedMorphismWithFullDomain
+
+Versions:
+2011.08.21 which is Markus' version
+2015.09.20 which is Mohamed's version
+2013.08.06 which is Thomas' version
+2013.11.11 which is Sebas' version
