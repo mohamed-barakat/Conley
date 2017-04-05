@@ -170,3 +170,13 @@ PrimaryDecomposition/: c7d7740 comply with MatricesForHomalg v2014.12.27
 Versions:
 2014.12.27 which is Mohamed's version
 2013.11.02 which is Eva Maria's version
+
+RingsForHomalg/: 43c69f0 added support for a separate stream.show_banner_QuillenSuslin
+
+Versions:
+2011.09.12 which is Markus L-H's version
+2011.06.16 which is Markus K's version
+2015.02.11 which is Mohamed's version
+2011.12.13 which is Andreas's version
+2012.12.11 which is Sebas' version
+2013.07.16 which is Vinay's version
